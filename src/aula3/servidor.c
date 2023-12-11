@@ -10,15 +10,6 @@
 
 pthread_mutex_t mutex;
 
-/*unsigned long fatorial(unsigned long numero) {
-	unsigned long resultado = 1;
-	while (numero > 0) {
-		resultado = resultado * numero;
-		numero = numero - 1;
-	}
-	return resultado;
-}*/
-
 unsigned long produto_intervalo(unsigned long inicio, unsigned long fim) {
 	unsigned long p_intervalo = 1;
 	unsigned long i;
