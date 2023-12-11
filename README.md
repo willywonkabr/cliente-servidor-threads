@@ -5,9 +5,9 @@ Versão do C: 11
 
 Sistema Operacional (SO): Windows 10
 
-Primeiro rode o arquivo: <a href="/aula3/servidor.c">servidor.c</a>
+Primeiro rode o arquivo: <a href="https://github.com/willywonkabr/cliente-servidor-threads/blob/master/src/aula3/servidor.c">servidor.c</a>
 
-E depois o arquivo: <a href="/aula3/cliente.c">cliente.c</a>
+E depois o arquivo: <a href="https://github.com/willywonkabr/cliente-servidor-threads/blob/master/src/aula3/cliente.c">cliente.c</a>
 
                                         SERVIDOR                                      CLIENTE
 
