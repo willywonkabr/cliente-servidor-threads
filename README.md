@@ -7,7 +7,7 @@ Sistema Operacional (SO): Windows 10
 
 Primeiro rode o arquivo: <a href="https://github.com/willywonkabr/cliente-servidor-threads/blob/master/src/aula3/servidor.c">servidor.c</a>
 
-E depois o arquivo: <a href="https://github.com/willywonkabr/cliente-servidor-threads/blob/master/src/aula3/cliente.c">cliente.c</a>
+Com o arquivo o <a href="https://github.com/willywonkabr/cliente-servidor-threads/blob/master/src/aula3/servidor.c">servidor.c</a> ainda em execução rode o arquivo: <a href="https://github.com/willywonkabr/cliente-servidor-threads/blob/master/src/aula3/cliente.c">cliente.c</a>
 
                                         SERVIDOR                                      CLIENTE
 
